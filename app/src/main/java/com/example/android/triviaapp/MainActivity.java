@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         checkQuestion5();
         checkQuestion6();
 
-        Toast.makeText(this, "Your score is: " + score, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "You got " + score + " out of 6 answers correct.", Toast.LENGTH_SHORT).show();
         score = 0;
     }
 
