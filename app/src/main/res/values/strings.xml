@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="question1">Which of the following are teams in the AFC (American Football Conference)? Select all that apply.</string>
+    <string name="question2">Who won the Heisman Trophy in 2016?</string>
+    <string name="question3">In what country did table tennis originate?</string>
+    <string name="question4">What NBA player scored 100 points on March 2, 1962?</string>
+    <string name="question5">What baseball team moved to D.C. to become the Washington Nationals in 2005?</string>
+    <string name="question6">What country won the gold medal in Men’s Hockey at the 2014 Olympics?</string>
+</resources>
